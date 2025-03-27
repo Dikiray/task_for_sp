@@ -1,0 +1,1017 @@
+gnu zlib 1.2.3 <Response [200]>
+zlib zlib 1.2.3 <Response [200]>
+{
+  "components": [
+    {
+      "bom-ref": "cccbd9ed-c882-4809-b29f-a8598c20aad0",
+      "name": "gcc",
+      "type": "application",
+      "version": "4.1.1"
+    },
+    {
+      "bom-ref": "BomRef.6925759720522029.8628723662824388",
+      "mimeType": "executable",
+      "name": "Makefile.def",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.2875573513308469.8580578087835787",
+      "mimeType": "executable",
+      "name": "analyze_brprob",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.8926235790029732.8109373269938306",
+      "mimeType": "executable",
+      "name": "btest-gcc.sh",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.03654096156912168.7615997698344218",
+      "mimeType": "executable",
+      "name": "compare_tests",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.8540687206049496.8926323363848025",
+      "mimeType": "executable",
+      "name": "compile",
+      "type": "file",
+      "version": "2005-05-14.22"
+    },
+    {
+      "bom-ref": "BomRef.4038350530949876.8818987820611581",
+      "mimeType": "executable",
+      "name": "config.guess",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.9088939368507841.5098052780639043",
+      "mimeType": "executable",
+      "name": "config.rpath",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.11984546188740386.5395359865358532",
+      "mimeType": "executable",
+      "name": "config.status",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.24457664402745605.5986966137410579",
+      "mimeType": "executable",
+      "name": "config.sub",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.5962787243017997.5626212914720885",
+      "mimeType": "executable",
+      "name": "configure",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.9552285937738809.6908493557235014",
+      "mimeType": "executable",
+      "name": "depcomp",
+      "type": "file",
+      "version": "2005-05-16.16"
+    },
+    {
+      "bom-ref": "BomRef.889407183032358.2863411052815429",
+      "mimeType": "executable",
+      "name": "filter_gcc_for_doxygen",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.025693536375861248.8205376357772214",
+      "mimeType": "executable",
+      "name": "filter_knr2ansi.pl",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.4875398185597831.12694887477192407",
+      "mimeType": "executable",
+      "name": "filter_params.pl",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.3488927106859736.9709574558395141",
+      "mimeType": "executable",
+      "name": "gcc_build",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.020769864256485082.3195535678539104",
+      "mimeType": "executable",
+      "name": "gcc_release",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.05060276182209811.712650621718407",
+      "mimeType": "executable",
+      "name": "gcc_update",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.5004198092674358.44330488760942743",
+      "mimeType": "executable",
+      "name": "gennews",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.26827766107405093.46293007768403693",
+      "mimeType": "executable",
+      "name": "index-prop",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.0633521494480681.06985282079999",
+      "mimeType": "executable",
+      "name": "install-sh",
+      "type": "file",
+      "version": "2005-05-14.22"
+    },
+    {
+      "bom-ref": "BomRef.7941752253114618.03971153304796149",
+      "mimeType": "executable",
+      "name": "ltcf-c.sh",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.9124256302095066.8970924360084612",
+      "mimeType": "executable",
+      "name": "ltcf-cxx.sh",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.5072907415639566.47136931633881873",
+      "mimeType": "executable",
+      "name": "ltcf-gcj.sh",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.3463357322319941.7949504792609691",
+      "mimeType": "executable",
+      "name": "ltconfig",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.3302797240093419.8560821525086162",
+      "mimeType": "executable",
+      "name": "ltmain.sh",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.9156551697599629.9910610202234931",
+      "mimeType": "executable",
+      "name": "maintainer-addresses",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.6118217415780812.3138971507346592",
+      "mimeType": "executable",
+      "name": "missing",
+      "type": "file",
+      "version": "2005-06-08.21"
+    },
+    {
+      "bom-ref": "BomRef.04798137731386687.3299027980322793",
+      "mimeType": "executable",
+      "name": "mkdep",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.8208044193978502.992389842298262",
+      "mimeType": "executable",
+      "name": "mkinstalldirs",
+      "type": "file",
+      "version": "2005-06-29.22"
+    },
+    {
+      "bom-ref": "BomRef.2933482197419296.0750305779285656",
+      "mimeType": "executable",
+      "name": "move-if-change",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.7703382438997284.4949363948135401",
+      "mimeType": "executable",
+      "name": "newcvsroot",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.9864324582737989.9983400024099912",
+      "mimeType": "executable",
+      "name": "objs-gcc.sh",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.24958277956427743.24243545560174884",
+      "mimeType": "executable",
+      "name": "reg_periodic",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.340690600405695.9339910150116701",
+      "mimeType": "executable",
+      "name": "reg_search",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.1247430951488504.5304765257310476",
+      "mimeType": "executable",
+      "name": "reg_test_template",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.009156282333132593.3854989031336906",
+      "mimeType": "executable",
+      "name": "symlink-tree",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.9133865797931044.06067537310107041",
+      "mimeType": "executable",
+      "name": "test_installed",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.1045581650782752.06323110668709797",
+      "mimeType": "executable",
+      "name": "test_summary",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.7758959823861376.4141339907237187",
+      "mimeType": "executable",
+      "name": "texi2pod.pl",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.4345067073387837.014131838687443388",
+      "mimeType": "executable",
+      "name": "update_version",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.2806512775893465.2224488616326138",
+      "mimeType": "executable",
+      "name": "update_version_svn",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.6086172867412838.17376024262395728",
+      "mimeType": "executable",
+      "name": "update_web_docs",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.843986845520211.8294937755723184",
+      "mimeType": "executable",
+      "name": "update_web_docs_libstdcxx",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.6863607491250905.8246190500746103",
+      "mimeType": "executable",
+      "name": "update_web_docs_libstdcxx_svn",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.2095289986323038.62202723243383",
+      "mimeType": "executable",
+      "name": "update_web_docs_svn",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.07089238388596286.35104250493481515",
+      "mimeType": "executable",
+      "name": "warn_summary",
+      "type": "file",
+      "version": ""
+    },
+    {
+      "bom-ref": "BomRef.8114244321524468.9848340259751206",
+      "mimeType": "executable",
+      "name": "ylwrap",
+      "type": "file",
+      "version": "2005-05-14.22"
+    },
+    {
+      "bom-ref": "8ae4230c-8822-4c9d-a9a6-8222e3ebefbc",
+      "name": "GNU Classpath",
+      "type": "library",
+      "version": "0.20-pre"
+    },
+    {
+      "bom-ref": "158f3bf6-2205-44c9-bc76-c770f686993a",
+      "name": "GNU Fortran Runtime Library",
+      "type": "library",
+      "version": "4.2"
+    },
+    {
+      "bom-ref": "a683a880-1c32-4efa-90e9-66a72966ca7a",
+      "name": "boehm-gc",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "6883395a-6aed-4178-a2f2-b765dab6c50a",
+      "name": "cpplib",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "61a65673-0685-47ac-a85f-e73d4052a5ca",
+      "name": "fastjar",
+      "type": "library",
+      "version": "0.90"
+    },
+    {
+      "bom-ref": "fbb90841-a8cd-4016-8a6b-f2fcfa237490",
+      "name": "fixincludes",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "9faf3658-f631-41f3-8f85-7b1c15a39588",
+      "name": "libffi",
+      "type": "library",
+      "version": "2.1"
+    },
+    {
+      "bom-ref": "bc53c73d-e9b9-4e45-8168-dabdd783b7a3",
+      "name": "libiberty",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "ace68ed5-9bf8-4565-8013-68111de734b1",
+      "name": "libintl",
+      "type": "library",
+      "version": "0.12.1"
+    },
+    {
+      "bom-ref": "dd93070c-1e6a-4c66-8ac9-e230b0ec9767",
+      "name": "libjava",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "6ac0d776-d4cc-4f6f-9d9f-4aaa70c08198",
+      "name": "libltdl",
+      "type": "library",
+      "version": "1.2"
+    },
+    {
+      "bom-ref": "473862b1-5064-4469-b627-5f69c4d34d7c",
+      "name": "libmudflap",
+      "type": "library",
+      "version": "1.0"
+    },
+    {
+      "bom-ref": "f8ec3f41-7fd7-437b-8496-dd1a6509bcbf",
+      "name": "libobjc",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "d8c2ab4a-28cf-41a1-a9e0-8af99c9faa49",
+      "name": "libssp",
+      "type": "library",
+      "version": "1.0"
+    },
+    {
+      "bom-ref": "ce4890dc-8da0-4c03-8665-7741af5be6f3",
+      "name": "libstdc++-v3",
+      "type": "library",
+      "version": "not_found"
+    },
+    {
+      "bom-ref": "437ee858-6df1-4cee-9a6c-fb9d5209fa49",
+      "name": "zlib",
+      "type": "library",
+      "version": "1.2.3"
+    }
+  ],
+  "dependencies": [
+    {
+      "ref": "BomRef.6925759720522029.8628723662824388"
+    },
+    {
+      "ref": "BomRef.2875573513308469.8580578087835787"
+    },
+    {
+      "ref": "BomRef.8926235790029732.8109373269938306"
+    },
+    {
+      "ref": "BomRef.03654096156912168.7615997698344218"
+    },
+    {
+      "ref": "BomRef.8540687206049496.8926323363848025"
+    },
+    {
+      "ref": "BomRef.4038350530949876.8818987820611581"
+    },
+    {
+      "ref": "BomRef.9088939368507841.5098052780639043"
+    },
+    {
+      "ref": "BomRef.11984546188740386.5395359865358532"
+    },
+    {
+      "ref": "BomRef.24457664402745605.5986966137410579"
+    },
+    {
+      "ref": "BomRef.5962787243017997.5626212914720885"
+    },
+    {
+      "ref": "BomRef.9552285937738809.6908493557235014"
+    },
+    {
+      "ref": "BomRef.889407183032358.2863411052815429"
+    },
+    {
+      "ref": "BomRef.025693536375861248.8205376357772214"
+    },
+    {
+      "ref": "BomRef.4875398185597831.12694887477192407"
+    },
+    {
+      "ref": "BomRef.3488927106859736.9709574558395141"
+    },
+    {
+      "ref": "BomRef.020769864256485082.3195535678539104"
+    },
+    {
+      "ref": "BomRef.05060276182209811.712650621718407"
+    },
+    {
+      "ref": "BomRef.5004198092674358.44330488760942743"
+    },
+    {
+      "ref": "BomRef.26827766107405093.46293007768403693"
+    },
+    {
+      "ref": "BomRef.0633521494480681.06985282079999"
+    },
+    {
+      "ref": "BomRef.7941752253114618.03971153304796149"
+    },
+    {
+      "ref": "BomRef.9124256302095066.8970924360084612"
+    },
+    {
+      "ref": "BomRef.5072907415639566.47136931633881873"
+    },
+    {
+      "ref": "BomRef.3463357322319941.7949504792609691"
+    },
+    {
+      "ref": "BomRef.3302797240093419.8560821525086162"
+    },
+    {
+      "ref": "BomRef.9156551697599629.9910610202234931"
+    },
+    {
+      "ref": "BomRef.6118217415780812.3138971507346592"
+    },
+    {
+      "ref": "BomRef.04798137731386687.3299027980322793"
+    },
+    {
+      "ref": "BomRef.8208044193978502.992389842298262"
+    },
+    {
+      "ref": "BomRef.2933482197419296.0750305779285656"
+    },
+    {
+      "ref": "BomRef.7703382438997284.4949363948135401"
+    },
+    {
+      "ref": "BomRef.9864324582737989.9983400024099912"
+    },
+    {
+      "ref": "BomRef.24958277956427743.24243545560174884"
+    },
+    {
+      "ref": "BomRef.340690600405695.9339910150116701"
+    },
+    {
+      "ref": "BomRef.1247430951488504.5304765257310476"
+    },
+    {
+      "ref": "BomRef.009156282333132593.3854989031336906"
+    },
+    {
+      "ref": "BomRef.9133865797931044.06067537310107041"
+    },
+    {
+      "ref": "BomRef.1045581650782752.06323110668709797"
+    },
+    {
+      "ref": "BomRef.7758959823861376.4141339907237187"
+    },
+    {
+      "ref": "BomRef.4345067073387837.014131838687443388"
+    },
+    {
+      "ref": "BomRef.2806512775893465.2224488616326138"
+    },
+    {
+      "ref": "BomRef.6086172867412838.17376024262395728"
+    },
+    {
+      "ref": "BomRef.843986845520211.8294937755723184"
+    },
+    {
+      "ref": "BomRef.6863607491250905.8246190500746103"
+    },
+    {
+      "ref": "BomRef.2095289986323038.62202723243383"
+    },
+    {
+      "ref": "BomRef.07089238388596286.35104250493481515"
+    },
+    {
+      "ref": "BomRef.8114244321524468.9848340259751206"
+    },
+    {
+      "ref": "158f3bf6-2205-44c9-bc76-c770f686993a"
+    },
+    {
+      "dependsOn": [
+        "61a65673-0685-47ac-a85f-e73d4052a5ca",
+        "cccbd9ed-c882-4809-b29f-a8598c20aad0",
+        "dd93070c-1e6a-4c66-8ac9-e230b0ec9767"
+      ],
+      "ref": "437ee858-6df1-4cee-9a6c-fb9d5209fa49"
+    },
+    {
+      "ref": "473862b1-5064-4469-b627-5f69c4d34d7c"
+    },
+    {
+      "dependsOn": [
+        "dd93070c-1e6a-4c66-8ac9-e230b0ec9767"
+      ],
+      "ref": "61a65673-0685-47ac-a85f-e73d4052a5ca"
+    },
+    {
+      "dependsOn": [
+        "cccbd9ed-c882-4809-b29f-a8598c20aad0"
+      ],
+      "ref": "6883395a-6aed-4178-a2f2-b765dab6c50a"
+    },
+    {
+      "ref": "6ac0d776-d4cc-4f6f-9d9f-4aaa70c08198"
+    },
+    {
+      "ref": "8ae4230c-8822-4c9d-a9a6-8222e3ebefbc"
+    },
+    {
+      "dependsOn": [
+        "dd93070c-1e6a-4c66-8ac9-e230b0ec9767"
+      ],
+      "ref": "9faf3658-f631-41f3-8f85-7b1c15a39588"
+    },
+    {
+      "dependsOn": [
+        "dd93070c-1e6a-4c66-8ac9-e230b0ec9767"
+      ],
+      "ref": "a683a880-1c32-4efa-90e9-66a72966ca7a"
+    },
+    {
+      "dependsOn": [
+        "6883395a-6aed-4178-a2f2-b765dab6c50a",
+        "cccbd9ed-c882-4809-b29f-a8598c20aad0"
+      ],
+      "ref": "ace68ed5-9bf8-4565-8013-68111de734b1"
+    },
+    {
+      "dependsOn": [
+        "61a65673-0685-47ac-a85f-e73d4052a5ca",
+        "6883395a-6aed-4178-a2f2-b765dab6c50a",
+        "cccbd9ed-c882-4809-b29f-a8598c20aad0",
+        "ce4890dc-8da0-4c03-8665-7741af5be6f3",
+        "f8ec3f41-7fd7-437b-8496-dd1a6509bcbf",
+        "fbb90841-a8cd-4016-8a6b-f2fcfa237490"
+      ],
+      "ref": "bc53c73d-e9b9-4e45-8168-dabdd783b7a3"
+    },
+    {
+      "ref": "cccbd9ed-c882-4809-b29f-a8598c20aad0"
+    },
+    {
+      "ref": "ce4890dc-8da0-4c03-8665-7741af5be6f3"
+    },
+    {
+      "ref": "d8c2ab4a-28cf-41a1-a9e0-8af99c9faa49"
+    },
+    {
+      "ref": "dd93070c-1e6a-4c66-8ac9-e230b0ec9767"
+    },
+    {
+      "ref": "f8ec3f41-7fd7-437b-8496-dd1a6509bcbf"
+    },
+    {
+      "dependsOn": [
+        "cccbd9ed-c882-4809-b29f-a8598c20aad0"
+      ],
+      "ref": "fbb90841-a8cd-4016-8a6b-f2fcfa237490"
+    }
+  ],
+  "metadata": {
+    "timestamp": "2025-03-27T09:32:07.858631+00:00",
+    "tools": {
+      "components": [
+        {
+          "name": "sbom-generator",
+          "type": "application"
+        },
+        {
+          "description": "Python library for CycloneDX",
+          "externalReferences": [
+            {
+              "type": "build-system",
+              "url": "https://github.com/CycloneDX/cyclonedx-python-lib/actions"
+            },
+            {
+              "type": "distribution",
+              "url": "https://pypi.org/project/cyclonedx-python-lib/"
+            },
+            {
+              "type": "documentation",
+              "url": "https://cyclonedx-python-library.readthedocs.io/"
+            },
+            {
+              "type": "issue-tracker",
+              "url": "https://github.com/CycloneDX/cyclonedx-python-lib/issues"
+            },
+            {
+              "type": "license",
+              "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/LICENSE"
+            },
+            {
+              "type": "release-notes",
+              "url": "https://github.com/CycloneDX/cyclonedx-python-lib/blob/main/CHANGELOG.md"
+            },
+            {
+              "type": "vcs",
+              "url": "https://github.com/CycloneDX/cyclonedx-python-lib"
+            },
+            {
+              "type": "website",
+              "url": "https://github.com/CycloneDX/cyclonedx-python-lib/#readme"
+            }
+          ],
+          "group": "CycloneDX",
+          "licenses": [
+            {
+              "license": {
+                "id": "Apache-2.0"
+              }
+            }
+          ],
+          "name": "cyclonedx-python-lib",
+          "type": "library",
+          "version": "9.1.0"
+        }
+      ]
+    }
+  },
+  "serialNumber": "urn:uuid:cb2d364d-927a-4f78-82bc-43f61e388ea1",
+  "version": 1,
+  "vulnerabilities": [
+    {
+      "bom-ref": "BomRef.9646236346094825.05805535763828673",
+      "id": "CVE-2002-2439",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "4.6"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2002-2439"
+    },
+    {
+      "bom-ref": "BomRef.11890545138094166.14149734432910577",
+      "id": "CVE-2014-5044",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "7.5"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "9.8"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2014-5044"
+    },
+    {
+      "bom-ref": "BomRef.21476164559584854.16312796977924937",
+      "id": "CVE-2015-5276",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "5.0"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2015-5276"
+    },
+    {
+      "bom-ref": "BomRef.7257213928501265.9757556508982437",
+      "id": "CVE-2016-2226",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "6.8"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "7.8"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-2226"
+    },
+    {
+      "bom-ref": "BomRef.20658531356636534.9693540314622041",
+      "id": "CVE-2016-4487",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "5.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4487"
+    },
+    {
+      "bom-ref": "BomRef.7203564300452158.2787561587974302",
+      "id": "CVE-2016-4488",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "5.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4488"
+    },
+    {
+      "bom-ref": "BomRef.20373928256634977.86738977199237",
+      "id": "CVE-2016-4489",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "5.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4489"
+    },
+    {
+      "bom-ref": "BomRef.450428847506519.18046862378577688",
+      "id": "CVE-2016-4490",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "5.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4490"
+    },
+    {
+      "bom-ref": "BomRef.5124030250647092.43897148258858",
+      "id": "CVE-2016-4491",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "5.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4491"
+    },
+    {
+      "bom-ref": "BomRef.5556229355363634.8136182281913069",
+      "id": "CVE-2016-4492",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "4.4"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4492"
+    },
+    {
+      "bom-ref": "BomRef.5917298538043176.8329921314285071",
+      "id": "CVE-2016-4493",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "4.3"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "5.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-4493"
+    },
+    {
+      "bom-ref": "BomRef.6976988772383447.1754772495001603",
+      "id": "CVE-2016-9840",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "6.8"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-9840"
+    },
+    {
+      "bom-ref": "BomRef.6432697339429199.706796882119117",
+      "id": "CVE-2016-9841",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "7.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-9841"
+    },
+    {
+      "bom-ref": "BomRef.016429013947665827.1446871684467249",
+      "id": "CVE-2016-9843",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "7.5"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2016-9843"
+    },
+    {
+      "bom-ref": "BomRef.435344680749277.3561920927807015",
+      "id": "CVE-2018-12886",
+      "ratings": [
+        {
+          "method": "CVSSv2",
+          "score": "6.8"
+        },
+        {
+          "method": "CVSSv3",
+          "score": "8.1"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2018-12886"
+    },
+    {
+      "bom-ref": "BomRef.09943562761039215.11036787583597696",
+      "id": "CVE-2018-25032",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "5.0"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2018-25032"
+    },
+    {
+      "bom-ref": "BomRef.7417938561185903.6624643669612136",
+      "id": "CVE-2019-15847",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "5.0"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2019-15847"
+    },
+    {
+      "bom-ref": "BomRef.031237205478640506.23415727936444297",
+      "id": "CVE-2021-37322",
+      "ratings": [
+        {
+          "method": "CVSSv3"
+        },
+        {
+          "method": "CVSSv2",
+          "score": "6.8"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2021-37322"
+    },
+    {
+      "bom-ref": "BomRef.625022506103865.7503860972672329",
+      "id": "CVE-2022-37434",
+      "ratings": [
+        {
+          "method": "CVSSv2"
+        },
+        {
+          "method": "CVSSv3"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2022-37434"
+    },
+    {
+      "bom-ref": "BomRef.7769758500451146.8110557392177654",
+      "id": "CVE-2023-45853",
+      "ratings": [
+        {
+          "method": "CVSSv2"
+        },
+        {
+          "method": "CVSSv3"
+        }
+      ],
+      "source": "https://nvd.nist.gov/vuln/detail/CVE-2023-45853"
+    }
+  ],
+  "$schema": "http://cyclonedx.org/schema/bom-1.5.schema.json",
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5"
+}
