@@ -121,9 +121,6 @@ def send_nvd_request(vendor, package_name, version):
     }
     response = requests.get(url, params=params)
 
-    if package_name == "zlib":
-        print(vendor, package_name, version, response)
-
     if response.status_code == 200:
         data = response.json()
         for vulnerability in data.get("vulnerabilities", []):
